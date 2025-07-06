@@ -1,0 +1,7 @@
+{
+  "vscode-corda.isCordaProject": false,
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "iostream": "cpp"
+  }
+}
